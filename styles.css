@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+}
+
+#bookstore {
+  margin: 20px auto;
+  width: 400px;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.book {
+  margin-bottom: 10px;
+}
+
+.book p {
+  margin: 0;
+}
